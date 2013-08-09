@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Mac Classic.tmTheme",
+	"font_face": "Consolas",
+	"font_size": 10.0,
+	"highlight_line": true,
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"remember_open_files": true,
+	"tab_size": 4,
+	"tree_animation_enabled": false
+}
