@@ -1,13 +1,19 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Mac Classic.tmTheme",
+	"dictionary": "Packages/Language - English/en_US.dic",
 	"font_face": "Consolas",
 	"font_size": 10.0,
 	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"indent_guide_options":
 	[
 		"draw_active"
 	],
 	"remember_open_files": true,
 	"tab_size": 4,
+	"tab_completion": false,
 	"tree_animation_enabled": false
 }
